@@ -1,2 +1,2 @@
-# webproject
-A responsive web application built with HTML, CSS, and JavaScript.
+# Amazon-Clone
+Create Amazon Clone Using HTML, CSS and JavaScript | Frontend Project
